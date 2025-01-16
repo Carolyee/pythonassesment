@@ -1,0 +1,19 @@
+{
+    "coffee": [
+      "The campus coffee bar opens at 8:00 AM and closes at 4:00 PM.",
+      "We have a great coffee bar! It opens from 8 AM to 4 PM."
+    ],
+    "library": [
+      "The library is open from 9 AM to 9 PM during the weekdays.",
+      "You can visit the library from 9 AM to 9 PM."
+    ],
+    "admissions": [
+      "You can apply for admission online through our university website.",
+      "For admission details, please visit the University Admissions page."
+    ],
+    "course": [
+      "We offer a variety of courses. Could you specify the department you're interested in?",
+      "What course are you looking for? We have many options across departments."
+    ]
+  }
+  
